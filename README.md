@@ -1,1 +1,1 @@
-This is the first version of my project.
+This is the first version of my project
